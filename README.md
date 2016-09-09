@@ -1,6 +1,6 @@
 # Runing a sinatra application on Docker
 
-This is sample project for running a sinatra application on Docker from within a Travis build.
+This is sample project for running a sinatra application on Docker from within a Travis build.d
 
 The build also runs another container using the same Docker image and runs the sinatra applications' test suite within this container..
 
